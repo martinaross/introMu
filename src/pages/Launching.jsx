@@ -93,7 +93,7 @@ const Launching = () => {
     <Layout>
       <div className="launching-background">
         <div className="launching-text">
-          <h1 className="launching-title">HARD SERVER 2025</h1>
+          <h1 className="launching-title">HARD SERVER 2028</h1>
           <h2 className="launching-subtitle">99B CLÁSICO</h2>
         </div>
       </div>
